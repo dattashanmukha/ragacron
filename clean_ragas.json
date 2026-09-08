@@ -1,0 +1,290 @@
+{
+    "kanakangi": {
+        "ascending": "S - r - R - m - P - d - D - S",
+        "descending": "S - D - d - P - m - R - r - S"
+    },
+    "rathnangi": {
+        "ascending": "S - r - R - m - P - d - n - S",
+        "descending": "S - n - d - P - m - R - r - S"
+    },
+    "ganamoorti": {
+        "ascending": "S - r - R - m - P - d - N - S",
+        "descending": "S - N - d - P - m - R - r - S"
+    },
+    "vanaspati": {
+        "ascending": "S - r - R - m - P - D - n - S",
+        "descending": "S - n - D - P - m - R - r - S"
+    },
+    "manavati": {
+        "ascending": "S - r - R - m - P - D - N - S",
+        "descending": "S - N - D - P - m - R - r - S"
+    },
+    "tanaroopi": {
+        "ascending": "S - r - R - m - P - n - N - S",
+        "descending": "S - N - n - P - m - R - r - S"
+    },
+    "senavati": {
+        "ascending": "S - r - g - m - P - d - D - S",
+        "descending": "S - D - d - P - m - g - r - S"
+    },
+    "hanumatodi": {
+        "ascending": "S - r - g - m - P - d - n - S",
+        "descending": "S - n - d - P - m - g - r - S"
+    },
+    "dhenuka": {
+        "ascending": "S - r - g - m - P - d - N - S",
+        "descending": "S - N - d - P - m - g - r - S"
+    },
+    "natakapriya": {
+        "ascending": "S - r - g - m - P - D - n - S",
+        "descending": "S - n - D - P - m - g - r - S"
+    },
+    "kokilapriyaa": {
+        "ascending": "S - r - g - m - P - D - N - S",
+        "descending": "S - N - D - P - m - g - r - S"
+    },
+    "rupavati": {
+        "ascending": "S - r - g - m - P - n - N - S",
+        "descending": "S - N - n - P - m - g - r - S"
+    },
+    "gayakapriya": {
+        "ascending": "S - r - G - m - P - d - D - S",
+        "descending": "S - D - d - P - m - G - r - S"
+    },
+    "vakulabharanam": {
+        "ascending": "S - r - G - m - P - d - n - S",
+        "descending": "S - n - d - P - m - G - r - S"
+    },
+    "mayamalava gowla": {
+        "ascending": "S - r - G - m - P - d - N - S",
+        "descending": "S - N - d - P - m - G - r - S"
+    },
+    "chakravakam": {
+        "ascending": "S - r - G - m - P - D - n - S",
+        "descending": "S - n - D - P - m - G - r - S"
+    },
+    "sooryakantam": {
+        "ascending": "S - r - G - m - P - D - N - S",
+        "descending": "S - N - D - P - m - G - r - S"
+    },
+    "hatakambari": {
+        "ascending": "S - r - G - m - P - n - N - S",
+        "descending": "S - N - n - P - m - G - r - S"
+    },
+    "jhankaradhvani": {
+        "ascending": "S - R - g - m - P - d - D - S",
+        "descending": "S - D - d - P - m - g - R - S"
+    },
+    "natabhairavi": {
+        "ascending": "S - R - g - m - P - d - n - S",
+        "descending": "S - n - d - P - m - g - R - S"
+    },
+    "keeravani": {
+        "ascending": "S - R - g - m - P - d - N - S",
+        "descending": "S - N - d - P - m - g - R - S"
+    },
+    "kharaharapriya": {
+        "ascending": "S - R - g - m - P - D - n - S",
+        "descending": "S - n - D - P - m - g - R - S"
+    },
+    "gowri manohari": {
+        "ascending": "S - R - g - m - P - D - N - S",
+        "descending": "S - N - D - P - m - g - R - S"
+    },
+    "varunapriyaa": {
+        "ascending": "S - R - g - m - P - n - N - S",
+        "descending": "S - N - n - P - m - g - R - S"
+    },
+    "mararanjani": {
+        "ascending": "S - R - G - m - P - d - D - S",
+        "descending": "S - D - d - P - m - G - R - S"
+    },
+    "charukeshi": {
+        "ascending": "S - R - G - m - P - d - n - S",
+        "descending": "S - n - d - P - m - G - R - S"
+    },
+    "sarasangi": {
+        "ascending": "S - R - G - m - P - d - N - S",
+        "descending": "S - N - d - P - m - G - R - S"
+    },
+    "harikambhoji": {
+        "ascending": "S - R - G - m - P - D - n - S",
+        "descending": "S - n - D - P - m - G - R - S"
+    },
+    "dheera shankarabharanam": {
+        "ascending": "S - R - G - m - P - D - N - S",
+        "descending": "S - N - D - P - m - G - R - S"
+    },
+    "naganandhini": {
+        "ascending": "S - R - G - m - P - n - N - S",
+        "descending": "S - N - n - P - m - G - R - S"
+    },
+    "yagapriya": {
+        "ascending": "S - g - G - m - P - d - D - S",
+        "descending": "S - D - d - P - m - G - g - S"
+    },
+    "ragavardhani": {
+        "ascending": "S - g - G - m - P - d - n - S",
+        "descending": "S - n - d - P - m - G - g - S"
+    },
+    "gangeyabhushani": {
+        "ascending": "S - g - G - m - P - d - N - S",
+        "descending": "S - N - d - P - m - G - g - S"
+    },
+    "vagadeeshwari": {
+        "ascending": "S - g - G - m - P - D - n - S",
+        "descending": "S - n - D - P - m - G - g - S"
+    },
+    "shulini": {
+        "ascending": "S - g - G - m - P - D - N - S",
+        "descending": "S - N - D - P - m - G - g - S"
+    },
+    "chalanattai": {
+        "ascending": "S - g - G - m - P - n - N - S",
+        "descending": "S - N - n - P - m - G - g - S"
+    },
+    "salagam": {
+        "ascending": "S - r - R - M - P - d - D - S",
+        "descending": "S - D - d - P - M - R - r - S"
+    },
+    "jalarnavam": {
+        "ascending": "S - r - R - M - P - d - n - S",
+        "descending": "S - n - d - P - M - R - r - S"
+    },
+    "jhalavarali": {
+        "ascending": "S - r - R - M - P - d - N - S",
+        "descending": "S - N - d - P - M - R - r - S"
+    },
+    "navaneetham": {
+        "ascending": "S - r - R - M - P - D - n - S",
+        "descending": "S - n - D - P - M - R - r - S"
+    },
+    "pavani": {
+        "ascending": "S - r - R - M - P - D - N - S",
+        "descending": "S - N - D - P - M - R - r - S"
+    },
+    "raghupriyaa": {
+        "ascending": "S - r - R - M - P - n - N - S",
+        "descending": "S - N - n - P - M - R - r - S"
+    },
+    "ghavambhodi": {
+        "ascending": "S - r - g - M - P - d - D - S",
+        "descending": "S - D - d - P - M - g - r - S"
+    },
+    "bhavapriya": {
+        "ascending": "S - r - g - M - P - d - n - S",
+        "descending": "S - n - d - P - M - g - r - S"
+    },
+    "shubhapanthuvarali": {
+        "ascending": "S - r - g - M - P - d - N - S",
+        "descending": "S - N - d - P - M - g - r - S"
+    },
+    "shadvidhamargini": {
+        "ascending": "S - r - g - M - P - D - n - S",
+        "descending": "S - n - D - P - M - g - r - S"
+    },
+    "suvarnangi": {
+        "ascending": "S - r - g - M - P - D - N - S",
+        "descending": "S - N - D - P - M - g - r - S"
+    },
+    "divyamani": {
+        "ascending": "S - r - g - M - P - n - N - S",
+        "descending": "S - N - n - P - M - g - r - S"
+    },
+    "dhavalambari": {
+        "ascending": "S - r - G - M - P - d - D - S",
+        "descending": "S - D - d - P - M - G - r - S"
+    },
+    "namanarayani": {
+        "ascending": "S - r - G - M - P - d - n - S",
+        "descending": "S - n - d - P - M - G - r - S"
+    },
+    "panthuvarali (kamavardhani)": {
+        "ascending": "S - r - G - M - P - d - N - S",
+        "descending": "S - N - d - P - M - G - r - S"
+    },
+    "ramapriya": {
+        "ascending": "S - r - G - M - P - D - n - S",
+        "descending": "S - n - D - P - M - G - r - S"
+    },
+    "gamanashrama": {
+        "ascending": "S - r - G - M - P - D - N - S",
+        "descending": "S - N - D - P - M - G - r - S"
+    },
+    "vishvambhari": {
+        "ascending": "S - r - G - M - P - n - N - S",
+        "descending": "S - N - n - P - M - G - r - S"
+    },
+    "shyamalangi": {
+        "ascending": "S - R - g - M - P - d - D - S",
+        "descending": "S - D - d - P - M - g - R - S"
+    },
+    "shanmukhapriyaa": {
+        "ascending": "S - R - g - M - P - d - n - S",
+        "descending": "S - n - d - P - M - g - R - S"
+    },
+    "simhendra madhyamam": {
+        "ascending": "S - R - g - M - P - d - N - S",
+        "descending": "S - N - d - P - M - g - R - S"
+    },
+    "hemavathi": {
+        "ascending": "S - R - g - M - P - D - n - S",
+        "descending": "S - n - D - P - M - g - R - S"
+    },
+    "dharmavathi": {
+        "ascending": "S - R - g - M - P - D - N - S",
+        "descending": "S - N - D - P - M - g - R - S"
+    },
+    "neethimathi": {
+        "ascending": "S - R - g - M - P - n - N - S",
+        "descending": "S - N - n - P - M - g - R - S"
+    },
+    "kanthamani": {
+        "ascending": "S - R - G - M - P - d - D - S",
+        "descending": "S - D - d - P - M - G - R - S"
+    },
+    "rishabhapriya": {
+        "ascending": "S - R - G - M - P - d - n - S",
+        "descending": "S - n - d - P - M - G - R - S"
+    },
+    "lathangi": {
+        "ascending": "S - R - G - M - P - d - N - S",
+        "descending": "S - N - d - P - M - G - R - S"
+    },
+    "vachaspathi": {
+        "ascending": "S - R - G - M - P - D - n - S",
+        "descending": "S - n - D - P - M - G - R - S"
+    },
+    "mechakalyani": {
+        "ascending": "S - R - G - M - P - D - N - S",
+        "descending": "S - N - D - P - M - G - R - S"
+    },
+    "chitrambari": {
+        "ascending": "S - R - G - M - P - n - N - S",
+        "descending": "S - N - n - P - M - G - R - S"
+    },
+    "sucharitra": {
+        "ascending": "S - g - G - M - P - d - D - S",
+        "descending": "S - D - d - P - M - G - g - S"
+    },
+    "jyothiswaroopini": {
+        "ascending": "S - g - G - M - P - d - n - S",
+        "descending": "S - n - d - P - M - G - g - S"
+    },
+    "dhatuvardhani": {
+        "ascending": "S - g - G - M - P - d - N - S",
+        "descending": "S - N - d - P - M - G - g - S"
+    },
+    "nasikabhooshhani": {
+        "ascending": "S - g - G - M - P - D - n - S",
+        "descending": "S - n - D - P - M - G - g - S"
+    },
+    "kosalam": {
+        "ascending": "S - g - G - M - P - D - N - S",
+        "descending": "S - N - D - P - M - G - g - S"
+    },
+    "rasikapriya": {
+        "ascending": "S - g - G - M - P - n - N - S",
+        "descending": "S - N - n - P - M - G - g - S"
+    }
+}
