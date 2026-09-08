@@ -2,8 +2,10 @@ require('dotenv').config();
 const express = require('express');
 const mongoose = require('mongoose');
 const twilio = require('twilio');
+const cors = require('cors');
 
 const app = express();
+app.use(cors());
 const port = process.env.PORT || 3000;
 
 const twilioClient = twilio(process.env.TWILIO_SID, process.env.TWILIO_AUTH_TOKEN);
@@ -38,6 +40,15 @@ app.get('/trigger', async (req, res) => {
     } catch (error) {
         console.error("Execution failed:", error);
         res.status(500).send("Failed to send message.");
+    }
+});
+
+app.get('/api/bhajans', async (req, res) => {
+    try {
+        const allBhajans = await Bhajan.find({});
+        res.status(200).json(allBhajans);
+    } catch (error) {
+        res.status(500).json({ error: "Failed to fetch data" });
     }
 });
 
