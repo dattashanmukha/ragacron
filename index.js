@@ -14,8 +14,8 @@ mongoose.connect(process.env.MONGO_URI)
     .then(() => console.log("MongoDB Connected"))
     .catch(err => console.error(err));
 
-const bhajanSchema = new mongoose.Schema({}, { strict: false, collection: 'daily_bhajans' });
-const Bhajan = mongoose.model('Bhajans', bhajanSchema);
+const bhajanSchema = new mongoose.Schema({}, { strict: false });
+const Bhajan = mongoose.model('Bhajan', bhajanSchema, 'Bhajans');
 
 // The webhook that triggers the text
 app.get('/trigger', async (req, res) => {
